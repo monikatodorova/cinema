@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="5.0.1" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CinemaTickets.Domain\CinemaTickets.Domain.csproj" />
+    <ProjectReference Include="..\CinemaTickets.Repository\CinemaTickets.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

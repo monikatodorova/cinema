@@ -1,0 +1,9 @@
+2022-07-03 23:38:56.8471|0|DEBUG|CinemaTickets.Web.Program|init main 
+2022-07-03 23:38:59.8389|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-03 23:38:59.8389|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-03 23:38:59.8389|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Web 
+2022-07-03 23:46:40.5308|0|DEBUG|CinemaTickets.Web.Program|init main 
+2022-07-03 23:46:42.2998|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-03 23:46:42.3051|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-03 23:46:42.3051|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Web 
+2022-07-03 23:46:46.1495|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 

@@ -1,0 +1,22 @@
+2022-07-04 19:19:57.9613|0|DEBUG|CinemaTickets.Web.Program|init main 
+2022-07-04 19:20:07.0886|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-04 19:20:07.0886|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-04 19:20:07.1238|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Web 
+2022-07-04 19:20:28.4434|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 19:20:33.7123|0|INFO|CinemaTickets.Service.Implementation.TicketService|Ticket was successfully added into ShoppingCart. 
+2022-07-04 19:20:33.7886|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 19:20:46.9538|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 19:20:54.7534|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 19:20:59.1769|0|INFO|CinemaTickets.Service.Implementation.TicketService|Ticket was successfully added into ShoppingCart. 
+2022-07-04 19:20:59.1938|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 21:10:59.0945|0|DEBUG|CinemaTickets.Web.Program|init main 
+2022-07-04 21:11:01.1938|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-07-04 21:11:01.2018|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-07-04 21:11:01.2018|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Web 
+2022-07-04 21:11:30.0047|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 21:11:37.4093|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 21:11:41.5598|0|INFO|CinemaTickets.Service.Implementation.TicketService|Ticket was successfully added into ShoppingCart. 
+2022-07-04 21:11:41.5692|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 21:11:47.6062|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 
+2022-07-04 21:11:49.6158|0|INFO|CinemaTickets.Service.Implementation.TicketService|Ticket was successfully added into ShoppingCart. 
+2022-07-04 21:11:49.6229|0|INFO|CinemaTickets.Service.Implementation.TicketService|GetAllTickets was called! 

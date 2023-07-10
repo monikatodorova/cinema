@@ -1,0 +1,77 @@
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.exe
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.deps.json
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.runtimeconfig.json
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.runtimeconfig.dev.json
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.dll
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.Views.dll
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.Views.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.csproj.AssemblyReference.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.AssemblyInfoInputs.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.AssemblyInfo.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorAssemblyInfo.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorAssemblyInfo.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTicketsAdminApplication.StaticWebAssets.Manifest.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTicketsAdminApplication.StaticWebAssets.xml
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaTicketsAdminApplication.styles.css
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.TagHelpers.input.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.TagHelpers.output.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorCoreGenerate.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorTargetAssemblyInfo.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorTargetAssemblyInfo.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.Views.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.dll
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.genruntimeconfig.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.csproj.CopyComplete
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.StaticWebAssets.xml
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.exe
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.deps.json
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.runtimeconfig.json
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.runtimeconfig.dev.json
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.Views.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\bin\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.Views.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.AssemblyInfo.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorAssemblyInfo.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorAssemblyInfo.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaTicketsAdminApplication.StaticWebAssets.Manifest.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.TagHelpers.input.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.TagHelpers.output.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorCoreGenerate.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorTargetAssemblyInfo.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.RazorTargetAssemblyInfo.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.Views.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.genruntimeconfig.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsAdminApplication\CinemaTicketsAdminApplication\obj\Debug\netcoreapp3.1\CinemaTicketsAdminApplication.csproj.CopyComplete

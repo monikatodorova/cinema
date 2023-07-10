@@ -1,0 +1,39 @@
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.deps.json
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.AssemblyReference.cache
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.AssemblyInfoInputs.cache
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.AssemblyInfo.cs
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.CoreCompileInputs.cache
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.CopyComplete
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\majaj\Desktop\IS - do 3ta aud rabote se - Copy\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.deps.json
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.AssemblyReference.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.AssemblyInfoInputs.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.AssemblyInfo.cs
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.CoreCompileInputs.cache
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.CopyComplete
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\majaj\Desktop\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.deps.json
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\bin\Debug\netcoreapp3.1\CinemaTickets.Domain.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.AssemblyInfo.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.csproj.CopyComplete
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\Integrirani sistemi\Maja\Lab - IS\CinemaTicketsApplication\CinemaTickets\CinemaTickets.Repository\obj\Debug\netcoreapp3.1\CinemaTickets.Repository.pdb
